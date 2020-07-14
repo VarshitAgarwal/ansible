@@ -1,4 +1,4 @@
-#Ansible Beginners Track
+# Ansible Beginners Track
 
 The configuration management system is intended to make controlling huge quantities of servers simple for the admin and Ops team.
 They allow you to control many different systems in an automated way from one central location.While there are many popular configuration
